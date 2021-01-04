@@ -1,0 +1,60 @@
+ 
+1D_SE_Kernel_sin 
+number of points = 30
+noise variance = 0.00050
+initial ell = 1.00
+initial s = 1.00
+optimal ell = 3.01
+optimal s = 3.68
+neg marg likelihood = -136.89
+ 
+ 
+1D_SE_Kernel_sin 
+number of points = 30
+noise variance = 0.00050
+initial ell = 0.50
+initial s = 1.00
+optimal ell = 2.75
+optimal s = 2.28
+neg marg likelihood = -137.06
+ 
+ 
+1D_SE_Kernel_sin 
+number of points = 30
+noise variance = 0.00050
+initial ell = 0.50
+initial s = 5.00
+optimal ell = 2.84
+optimal s = -2.64
+neg marg likelihood = -137.11
+ 
+ 
+1D_SE_Kernel_sin 
+number of points = 30
+noise variance = 0.00050
+initial ell = 2.00
+initial s = 2.00
+optimal ell = 2.82
+optimal s = 2.61
+neg marg likelihood = -137.11
+ 
+ 
+1D_SE_Kernel_sin 
+number of points = 30
+noise variance = 0.00050
+initial ell = 2.00
+initial s = 5.00
+optimal ell = 3.15
+optimal s = 4.42
+neg marg likelihood = -136.63
+ 
+ 
+1D_SE_Kernel_sin 
+number of points = 30
+noise variance = 0.00050
+initial ell = 3.00
+initial s = 4.00
+optimal ell = 2.91
+optimal s = 3.00
+neg marg likelihood = -137.09
+ 
